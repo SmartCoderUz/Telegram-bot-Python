@@ -1,0 +1,29 @@
+
+
+token = '953288371:AAFC4IBF8c6HVLP2Xkf6Lk1VK8QIKQtkNko'
+
+start_text = 'Salom [{0}](t.me/{1})! @SmartCodersBot ga hush kelibsiz.' \
+             '\nUshby bot SmartCoders komandasining rasmiy boti hisoblanib, u faqat [SmartCoders Group](https://t.me/SmartCodersGr)da ishlaydi.' \
+             '\nBot haqida ma\'lumot olish uchun /help buyrug\'ini jo\'nating!'
+sos_text = '*Bot komandalari:*' \
+           '\n`!telegram` - Telegram yuklash uchun URL adres olish' \
+           '\n`#qoidalar` - Guruh qoidalari' \
+           '\n`!uz` - Botda foydalanish qo\'llanmasi(o\'zbek tilida)' \
+           '\n`!ru` - Botdan foydalanish qo\'llanmasi(rus tilida)' \
+           '\n`!info` - Bot haqida qo\'shimcha ma\'lumot'
+about = '*SmartCoder komandasi haqida ikki og\'iz gap...*' \
+        '\n\n*SamrtCoders* - yosh dasturchilardan tuzilgan komanda bo\'lib, bizning maqsadimiz o\'zimiz bilganlarimizni boshqalarga ham o\'rgatish. Bilmaganlarimizni birgalikda o\'rganish.' \
+        '\nBizning asosiy yo\'nalishimiz IT texnologiyalar bilan bog\'liq. Axborot texnologiyalari olamidagi yangiliklarni sizlarga ulashish, birgalikda dasturlashni o\'rganish, ijtimoiy tarmoqlardan foydalanishni o\'rgatish va shu kabi bir nechta vazifalarni o\'z oldimizga qo\'yganmiz.' \
+        '\n\n*SmartCoders*         `Biz bilan - kelajak yaqinroq!`' \
+        '\nCreator - @NurikNazarov11'
+
+commands = '*Bot buyruqlari:* ( faqat adminlar uchun )' \
+           '\n`!ro 10` - 10 daqiqaga read-only rejimiga tushirish' \
+           '\n`!ro 1h` - 1 soatga read-only rejimiga tushirish' \
+           '\n`!ro 1d` - 1 kunga read-only rejimiga tushirish' \
+           '\n`!ro 1w` - 1 haftaga read-only rejimiga tushirish' \
+           '\`!kick1 - Guruhdan chetlashtirish' \
+           '\n*Bot buyruqlari:* ' \
+           '\n`!report` - Reply qilingan habar ustidan shikoyat qilish' \
+           '\n`!admin` - Habarni adminga jo\'natish (Iltimos admin lichkasiga o\'tib bezovta qilmang! Habaringizni bot orqali jo\'nating.)' \
+           '\n`#qoidalar` - Guruh qoidalari'
